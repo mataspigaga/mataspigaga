@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/32f759d7-493d-4366-bb23-78074e5381f2/thumbnail" >
+<p align="left" >
+  <img src="https://api.boot.dev/v1/users/public/32f759d7-493d-4366-bb23-78074e5381f2/thumbnail" width="50%">
 </p>
 
 <!--
