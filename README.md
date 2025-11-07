@@ -1,5 +1,6 @@
 <p align="left" >
   <img src="https://api.boot.dev/v1/users/public/32f759d7-493d-4366-bb23-78074e5381f2/thumbnail" width="40%">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8cda43a4-c31a-4d8a-87fa-4bdc406556b0.jpeg?v=1762536417" width="40%">
 </p>
 
 <!--
